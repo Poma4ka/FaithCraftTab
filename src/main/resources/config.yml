@@ -1,0 +1,16 @@
+header:
+  - ''
+  - ''
+  - '&dFaithCraft'
+  - ''
+footer:
+  - ''
+  - '&7Игроков онлайн: &a%online%'
+  - ''
+  - '&7Ping: %ping%   &7TPS: %tps%'
+
+update_interval: 40
+
+roles:
+  admin: "A"
+  moder: "M"
